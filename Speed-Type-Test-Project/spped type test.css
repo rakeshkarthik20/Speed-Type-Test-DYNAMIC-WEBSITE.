@@ -1,0 +1,36 @@
+.bg-conatiner {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 170vh;
+}
+
+.heading {
+    font-family: Roboto;
+    color: #690cb0;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+p {
+    font-family: Roboto;
+}
+
+img {
+    height: 50px;
+}
+
+.description-card {
+    height: 80vh;
+    border-style: solid;
+    background-color: #f2ebfe;
+    border-color: #9aa5b1;
+    border-radius: 25px;
+}
+
+.description {
+    height: 30vh;
+    color: #323f4b;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px;
+}
